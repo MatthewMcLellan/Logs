@@ -1,0 +1,4 @@
+time,battery,voltage,soc_percent,status,temperature_f,orion_state,orion_input_v,orion_output_v
+2026-11-16 17:57:41,Boat battery,12.09,14,Abnormal,61,Off,13.68,
+2026-11-16 17:57:42,Boat battery,12.09,14,Abnormal,61,Off,13.68,
+2026-11-16 17:57:43,Boat battery,12.09,14,Abnormal,61,Off,13.67,
