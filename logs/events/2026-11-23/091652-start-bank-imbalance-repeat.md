@@ -1,0 +1,23 @@
+# Start bank: batteries 1.07 V apart
+
+**Mon 23 Nov 2026, 09:16:52**
+
+Start bank is still out of balance: its two batteries are 1.07 V apart (Starboard Starter 13.53 V, Port Starter 12.46 V), more than 0.50 V since 05:06.
+In a series bank both should read about the same. One is getting more charge than the other (a charger on one battery only), or one is weaker. Check that the bank's charger is connected across the whole bank.
+
+## Bank
+
+- **25.99 V** in all · its batteries 1.07 V apart (alarm above 0.50 V)
+- Starboard Starter: 13.53 V, 100%, Charging
+- Port Starter: 12.46 V, 72%, Normal
+
+## Other batteries
+
+- Electronic Controls: 12.69 V, 100%, Normal
+
+## Data
+
+- [Readings from the 2 hours before this alert](091652-start-bank-imbalance-repeat.csv) (CSV)
+- [All readings for 2026-11-23](../../readings/2026-11-23/)
+
+_Sent by your private Battery Monitor._
